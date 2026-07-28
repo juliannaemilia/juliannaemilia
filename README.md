@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=color=0:ec0868,100:c200fb&reversal=false&textBg=false">
 <h1 align="center"> Bem-vindo ao meu cantinho ✨</h1>
-<h3>conheça um pouco sobre mim</h3>
 
 💻 Desenvolvedora Full Stack apaixonada por criar aplicações funcionais, escaláveis e com foco na experiência do usuário.
 
@@ -34,7 +33,6 @@
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-
 
 > "Construindo software que une boa experiência, código de qualidade e evolução constante."
 
