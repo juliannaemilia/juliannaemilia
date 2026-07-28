@@ -1,20 +1,24 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=color=0:ec0868,100:c200fb&reversal=false&textBg=false">
-<h1 align="center">Olá, eu sou Julianna Emilia</h1>
+<h1 align="center">Bem-vindos ao meu cantinho ✨</h1>
+<h3 align="center">Conheça meu trabalho e evolução técnica</h3>
 
-💻 Desenvolvedora *Full Stack* apaixonada por criar aplicações funcionais, escaláveis e com foco na experiência do usuário.
+💻 Desenvolvedora Full Stack apaixonada por criar aplicações funcionais, escaláveis e com foco na experiência do usuário.
 
-🎨 Tenho grande interesse em *UI/UX*, buscando desenvolver interfaces intuitivas, acessíveis e visualmente atraentes.
+🧪 Tenho grande interesse em Teste de Software, buscando garantir a qualidade, a confiabilidade e a eficiência em cada entrega através de processos rigorosos de validação.
 
-⚙️ Atualmente estou aprofundando meus conhecimentos em *DevOps*, explorando automação, CI/CD, containers, infraestrutura e boas práticas de deploy.
+⚙️ Atualmente estou aprofundando meus conhecimentos em Infraestrutura e DevOps, explorando automação, CI/CD, containers e boas práticas de deploy para criar ambientes resilientes.
 
-📚 Acredito no aprendizado contínuo e estou sempre estudando novas tecnologias, arquiteturas e ferramentas para evoluir como desenvolvedor.
+📖 Acredito no aprendizado contínuo e estou sempre estudando novas tecnologias, arquiteturas e ferramentas para evoluir como 
 
 ### Áreas de interesse
 
-- 🎨 UI/UX Design
-- 🌐 Desenvolvimento Full Stack
-- ☁️ DevOps
-- 📖 Aprendizado contínuo e novas tecnologias
+🌐 Desenvolvimento Full Stack
+
+🧪 Teste de Software & QA
+
+☁️ Infraestrutura & DevOps
+
+📚 Evolução técnica constante
 
 ### Linguagens Usadas
 
@@ -33,6 +37,7 @@
 
 > "Construindo software que une boa experiência, código de qualidade e evolução constante."
 
+> Sinta-se à vontade para conectar-se comigo.
 <hr>
 
 <p align="center">
