@@ -33,12 +33,13 @@
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
+
 -
 > "Construindo software que une boa experiência, código de qualidade e evolução constante."
 
 > Sinta-se à vontade para conectar-se comigo.
 <hr>
--
+
 <p align="center">
  <img width="640" height="204" alt="Image" src="https://github.com/user-attachments/assets/591c7980-6f26-43b2-b50a-6012bb458ddb" />
 </p>
