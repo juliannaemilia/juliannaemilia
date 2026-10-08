@@ -15,8 +15,6 @@ Amo transformar ideias em sites e apps bonitinhos e fáceis de usar, sempre prio
 
 🔗 Front-end Development
 
-🖥️ Design Engineering
-
 ### Linguagens Usadas
 
 <p align="center">  
